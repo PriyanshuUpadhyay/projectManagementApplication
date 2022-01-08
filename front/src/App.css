@@ -203,8 +203,19 @@ textarea {
   background-color: transparent;
 }
 
+.modalTitleDivContainer{
+  display: flex;
+  margin: 1rem 0;
+}
+
+.modalTitleDivs{
+  width: 8rem !important;
+  font-size: large;
+}
+
 .modalIndividual {
-  margin-left: 2rem;
+  margin-left: 1rem;
+  width: 100%;
 }
 
 .editModalBody {
