@@ -31,13 +31,13 @@ const App = () => {
   const [data, setData] = useState([]);
 
   const [modalInfo, setModalInfo] = useState([]);
-  
+
   const [show, setShow] = useState(false);
   const showModal = () => setShow(true);
   const closeModal = () => setShow(false);
 
 
-  
+
   const [editShow, setEditShow] = useState(false);
   const showEditModal = () => setEditShow(true)
   const closeEditModal = () => setEditShow(false)
@@ -231,7 +231,7 @@ const App = () => {
           console.log(`Error: ${err.message}`);
         })
     }
-    
+
     return (
       <Modal show={deleteShow} onHide={closeDeleteModal} className='delModalContainer'>
         <Modal.Header className='modalHead'>
