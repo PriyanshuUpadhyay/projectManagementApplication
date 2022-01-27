@@ -3,8 +3,8 @@
 This is a web application designed to let user maintain projects. 
 Main operations include:
 > - #### Creating/adding a new project:
-	- User is provided with a form in the home page where one can enter project details like project name, description, deadline and tech stack used in the project.
-	- When user fills in the details and clicks done, the data is added to database and user can see the new project added to the sidebar under Pending projects.
+>	- User is provided with a form in the home page where one can enter project details like project name, description, deadline and tech stack used in the project.
+>	- When user fills in the details and clicks done, the data is added to database and user can see the new project added to the sidebar under Pending projects.
 > 
 > - #### Viewing project details:
 >	- On the sidebar user can see two sections one named Pending projects and another Completed projects.
