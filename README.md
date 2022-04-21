@@ -1,6 +1,6 @@
 # Project Management Application
 
-This is a web application(hosted at: ![https://project-manage-ment.herokuapp.com/][https://project-manage-ment.herokuapp.com/] designed to let user maintain projects. 
+This is a web application(hosted at: ![https://project-manage-ment.herokuapp.com/] designed to let user maintain projects. 
 Main operations include:
 > - #### Creating/adding a new project:
 >	- User is provided with a form in the home page where one can enter project details like project name, description, deadline and tech stack used in the project.
